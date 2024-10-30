@@ -1,0 +1,13 @@
+.h1{
+    background-color: aqua;
+    font-size: 15px;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    
+}
+*{
+    background-color: rgb(180, 177, 141);
+    margin: 0;
+    padding: 0;
+}
